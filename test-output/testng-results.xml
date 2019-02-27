@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gmail Suite" duration-ms="32341" started-at="2019-02-27T13:43:09Z" finished-at="2019-02-27T13:43:41Z">
+    <groups>
+    </groups>
+    <test name="flipkart" duration-ms="17719" started-at="2019-02-27T13:43:09Z" finished-at="2019-02-27T13:43:27Z">
+      <class name="com.jbk.Flipkart">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.jbk.Flipkart@d2e7d9]" name="init" duration-ms="17697" started-at="2019-02-27T19:13:09Z" finished-at="2019-02-27T19:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.jbk.Flipkart -->
+    </test> <!-- flipkart -->
+    <test name="Myntra" duration-ms="14552" started-at="2019-02-27T13:43:27Z" finished-at="2019-02-27T13:43:41Z">
+      <class name="com.jbk.SnapDeal">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.jbk.SnapDeal@ee68d8]" name="init" duration-ms="14550" started-at="2019-02-27T19:13:27Z" finished-at="2019-02-27T19:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.jbk.SnapDeal -->
+    </test> <!-- Myntra -->
+  </suite> <!-- Gmail Suite -->
+</testng-results>
